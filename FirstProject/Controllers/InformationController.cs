@@ -20,7 +20,7 @@ namespace FirstProject.Controllers
 
             info2.Id = 2;
             info2.Email = "jakas1gyz@gmail.com";
-            info2.Name = "LOL";
+            info2.Name = "ABCD";
 
             List<InformationViewModel> listInfo = new List<InformationViewModel>();
             listInfo.Add(info1);
